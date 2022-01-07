@@ -16,7 +16,6 @@ export const AppContextProvider = ({ children }) => {
         setPosts(data)
         setLoading(false)
         setTitle(y)
-        console.log('search')
     }
 
     return (
