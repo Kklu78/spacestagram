@@ -22,7 +22,7 @@ export default function Feed() {
             <Loader size="large">Loading</Loader>
           </Dimmer>
       ) : 
-        <Card.Group className={'CardGroup'} itemsPerRow={2} stackable>
+        <Card.Group className={'CardGroup'} itemsPerRow={3} stackable>
             {postCards}
       </Card.Group>
 }
