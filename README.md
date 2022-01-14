@@ -11,6 +11,8 @@
 # About The Project
 Spacestagram is an app that allows you to search through NASA's Astronomy Picture of the Day (APOD) API to see images and descriptions from the posts of each day.
 
+![Homepage](https://raw.githubusercontent.com/Kklu78/spacestagram/master/public/images/Screenshot.png)
+
 
 
 
