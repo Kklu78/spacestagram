@@ -19,6 +19,7 @@ Spacestagram is an app that allows you to search through NASA's Astronomy Pictur
 
 * [Click to launch the app](http://spacestagram-kklu.herokuapp.com/)
     * See the live application here
+    * Please allow the app 1-2 minutes to load from an inactive state.  Once loaded, it should function normally
 
 
 # Next Steps
